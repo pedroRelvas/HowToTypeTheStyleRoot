@@ -1,0 +1,19 @@
+{
+  "name": "material-ui",
+  "version": "3.0.0",
+  "description": "hello world starter",
+  "keywords": [
+    "react",
+    "material"
+  ],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "jss": "10.4.0",
+    "jss-plugin-template": "10.4.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "4.0.2"
+  }
+}
